@@ -12,6 +12,13 @@ Utility-First CSS Migration: The project was initially built with plain CSS and 
 Dynamic Animated Background: The most striking feature is the generative art background, built with React Three Fiber and GLSL shaders. This isn't a pre-rendered video; it's a live, interactive WebGL canvas that renders a retro, dithered wave pattern, providing a visually stunning and performant user experience that sets it apart from typical web apps.
 Clean, Component-Based Architecture: The frontend code is logically structured into pages, reusable components, and purpose-built layouts (like the CenteredLayout for auth pages). State management for authentication is handled cleanly using React's Context API.
 
+<img width="1391" height="836" alt="Screenshot 2025-07-24 at 11 59 26 AM" src="https://github.com/user-attachments/assets/5678fcc1-52db-44cb-983a-306cbc5f09cd" />
+
+<img width="1392" height="834" alt="Screenshot 2025-07-24 at 11 59 47 AM" src="https://github.com/user-attachments/assets/582b1723-edb0-4bae-a396-67e330dcb83f" />
+
+<img width="1395" height="837" alt="Screenshot 2025-07-24 at 12 00 09 PM" src="https://github.com/user-attachments/assets/9aadc255-a8d6-4447-9720-1f5897dbcfc9" />
+
+
 Tech Stack & Libraries
 
 Frontend
